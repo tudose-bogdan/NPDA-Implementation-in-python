@@ -1,0 +1,12 @@
+A B
+a b
+a b
+A
+Z
+N
+E
+A a Z A AZ 1
+A a A A AA 22
+A b A B e 111
+B b A B e 222
+B e Z B e 111

@@ -1,0 +1,18 @@
+A B C
+a b e
+0 1 e
+A
+Z
+C
+F
+A a Z A aZ 1
+A b Z A bZ 1
+A a a A aa 1
+A a b A ab 1
+A b a A ba e
+A b b A bb 1
+A a a B e 2
+A b b B e 22
+B a a B e 22
+B b b B e 22
+B e Z C z 22

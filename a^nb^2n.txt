@@ -1,0 +1,12 @@
+A B C
+a b
+a b
+A
+Z
+D
+E
+A a Z A aaZ 1
+A a a A aaa 1
+A b a B e 2
+B b a B e 2
+B e Z C e 2

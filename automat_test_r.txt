@@ -1,0 +1,14 @@
+s q f
+a b
+a b s z
+s
+z
+f
+F
+s e z q sz e
+q e s q asbs 111
+q e s q bsas 2
+q e s q e 3
+q a a q e e
+q b b q e e
+q e z f z e

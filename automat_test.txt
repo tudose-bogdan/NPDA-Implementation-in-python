@@ -1,0 +1,14 @@
+s q f
+s
+f
+a b
+1 2 3
+a b s z
+z
+s/^/z q/sz/^
+q/^/s q/asbs/111
+q/^/s q/bsas/2
+q/^/s q/^/3
+q/a/a q/^/^
+q/b/b q/^/^
+q/^/z f/z/^
